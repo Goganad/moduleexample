@@ -1,3 +1,3 @@
-module github.com/Goganad/go_for_all
+module github.com/Goganad/moduleexample
 
 go 1.22.2
